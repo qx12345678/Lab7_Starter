@@ -1,3 +1,3 @@
 # Lab 7 - Starter
-Qingxin Li
+Qingxin Li<br>
 https://qx12345678.github.io/Lab7_Starter/
