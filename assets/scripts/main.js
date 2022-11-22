@@ -52,7 +52,7 @@ function initializeServiceWorker() {
   // B3. TODO - Register '/sw.js' as a service worker (The MDN article
   //            "Using Service Workers" will help you here)
   try{
-    let registration = await navigator.serviceWorker.register('https://github.com/qx12345678/Lab7_Starter/blob/main/sw.js')
+    let registration = await navigator.serviceWorker.register('https://qx12345678.github.io/sw.js')
   // B4. TODO - Once the service worker has been successfully registered, console
   //            log that it was successful.
     if(registration.active){
